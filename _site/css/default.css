@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-    background-color: white;
+    background-color: #eee;
     font: 13.34px helvetica, arial, clean, sans-serif;
     *font-size: small;
     text-align: center;
@@ -68,8 +68,8 @@ ul.posts li {
 
 ul.posts span {
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    font-family: Inconsolata, Monaco, "Courier New", monospace;
+    font-size: 100%;
 }
 
 /*****************************************************************************/
@@ -79,7 +79,7 @@ ul.posts span {
   /*****************************************************************************/
 
 .site {
-    font-size: 110%;
+    font-size: 120%;
     text-align: justify;
     width: 40em;
     margin: 3em auto 2em auto;
@@ -87,13 +87,13 @@ ul.posts span {
 }
 
 .title {
-    color: #a00;
+    color: #0a0;
     font-weight: bold;
     margin-bottom: 2em;
 }
 
 .site .title a {
-    color: #a00;
+    color: #0a0;
     text-decoration: none;
 }
 
@@ -129,7 +129,7 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-    color: #8085C1;
+    color: #80C185;
 }
 
 .site .footer .rss {
@@ -156,7 +156,7 @@ ul.posts span {
 
 #post pre {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #efe;
     padding: 0 .4em;
 }
 
@@ -167,7 +167,7 @@ ul.posts span {
 
 #post code {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #efe;
     font-size: 85%;
     padding: 0 .2em;
 }
